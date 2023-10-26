@@ -1,0 +1,15 @@
+.main{
+    height: 60vw;
+    background-color: #0f0f0f;
+    margin-top: -20vh;
+    margin-bottom: 10vh;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    img{
+        height: 100%;
+    }
+}
