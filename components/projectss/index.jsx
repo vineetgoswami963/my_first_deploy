@@ -50,7 +50,7 @@ const data2 = [
         speed: 0.5
     },
     {
-        title: "WINIT",
+        title: "VIRAT",
         description: "",
         speed: 0.67
     },

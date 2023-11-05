@@ -7,7 +7,7 @@ export default function index({data, selectedProject}) {
     const crop = (string, maxLength) => {
         return string.substring(0, maxLength);
     }
-    
+
     return (
         <div className={styles.description}>
             {

@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import corpcommentImg from "@/public/corpcomment.jpg";
+import rmtdevImg from "@/public/rmtdev.jpg";
+import wordanalyticsImg from "@/public/wordanalytics.jpg";
 
 export const links = [
   {
@@ -75,6 +75,7 @@ export const projectsData = [
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: rmtdevImg,
   },
+
   {
     title: "Word Analytics",
     description:
@@ -104,4 +105,7 @@ export const skillsData = [
   "Python",
   "Django",
   "Framer Motion",
+  "Open Cv",
+  "Tensor FLow",
+  "Computer Vision",
 ] as const;

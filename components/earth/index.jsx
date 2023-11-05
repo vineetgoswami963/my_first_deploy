@@ -13,10 +13,6 @@ export default function earth() {
         offset: ['start end', 'end start']
     })
 
-    /* Used for smooth rotation if you're not using Lenis Scroll */
-    // const smoothRotation = useSpring(scrollYProgress, {
-    // damping: 20
-    // });
 
     const [color, normal, aoMap] = useLoader(TextureLoader, [
         '/assets/color.jpg',

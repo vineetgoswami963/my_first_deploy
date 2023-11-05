@@ -8,8 +8,6 @@ import Skills from "@/components/skills";
 import Particle from "@/components/particle";
 import styles from './page.module.scss'
 import React from 'react';
-import dynamic from 'next/dynamic';
-import SmoothScroll from '@/components/smoothScroll';
 import Projectss from '@/components/projectss';
 import Earth from "@/components/earth";
 import Header from "@/components/header";
