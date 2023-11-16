@@ -64,14 +64,14 @@ export const projectsData = [
   {
     title: "CorpComment",
     description:
-      "I worked as a full-stack developer on this startup project as a trainee. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "i created a attendance monitoring model in computer vision whihc marks the attendance and update the attendance in online database making it indeendent from physical storage",
+    tags: ["openCV","machine learning"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "remote developer",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "Job board for remote developer jobs.It has features like filtering, sorting and pagination",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: rmtdevImg,
   },

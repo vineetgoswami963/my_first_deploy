@@ -9,7 +9,7 @@ import { Engine } from 'tsparticles-engine';
 // import { color, distance } from 'framer-motion';
 
 
-const particle=()=>
+const Particle=()=>
 {
     // type engine = any;
 
@@ -108,4 +108,4 @@ const particle=()=>
     
 };
 
-export default particle;
+export default Particle;
