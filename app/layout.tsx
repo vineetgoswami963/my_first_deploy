@@ -10,10 +10,12 @@ import { Toaster } from "react-hot-toast";
 
 const inter = Inter({ subsets: ["latin"] });
 
+
 export const metadata = {
   title: "Vineet Goswami portfolio",
   description: "I am vineet goswami, a student of bachelor of technology in computer science",
 };
+
 
 export default function RootLayout({
   children,
